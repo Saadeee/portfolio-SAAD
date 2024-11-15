@@ -1,0 +1,97 @@
+<!-- views/index.ejs -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Muhammad Saad | Copywriting & Email Marketing</title>
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+
+<!-- Home Section -->
+<section id="home">
+    <div class="container">
+        <h1>Muhammad Saad</h1>
+        <p>Email Marketer & Copywriter</p>
+        <p>Helping Online Coaches Nurture Relationships & Drive Sales</p>
+        <a href="#portfolio" class="btn">View My Work</a>
+        <a href="#contact" class="btn">Get in Touch</a>
+    </div>
+</section>
+
+<!-- About Me Section -->
+<section id="about">
+    <div class="container">
+        <h2>About Me</h2>
+        <p>I'm Muhammad Saad, an 18-year-old passionate about helping online coaches build strong relationships with their students and increase sales through authentic copy and email strategies.</p>
+    </div>
+</section>
+
+<!-- What I Do Section -->
+<section id="services">
+    <div class="container">
+        <h2>What I Do</h2>
+        <ul>
+            <li>Email Marketing - Engage your audience effectively.</li>
+            <li>Copywriting - Powerful copy that drives action.</li>
+            <li>Sales Strategy - Techniques designed to boost conversions.</li>
+        </ul>
+    </div>
+</section>
+
+<!-- Who My Services Are For Section -->
+<section id="target-audience">
+    <div class="container">
+        <h2>Who My Services Are For</h2>
+        <p>I work with online coaches ready to grow their student engagement and boost sales, including Copywriting Coaches, Digital Marketing Coaches, SEO Coaches, and more.</p>
+    </div>
+</section>
+
+<!-- Portfolio Section -->
+<section id="portfolio">
+    <div class="container">
+        <h2>My Work</h2>
+        <p><a href="https://drive.google.com/drive/folders/12vK48Wcv2PTsUsPkL9d03tgKDEiVbLqZ" target="_blank">View My Work on Google Drive</a></p>
+    </div>
+</section>
+
+<!-- Process Section -->
+<section id="process">
+    <div class="container">
+        <h2>My Process</h2>
+        <ol>
+            <li>Discovery & Research - Understanding your goals.</li>
+            <li>Strategy & Planning - Developing a customized approach.</li>
+            <li>Execution & Revision - Writing and refining the copy.</li>
+            <li>Delivery & Analysis - Finalizing and measuring success.</li>
+        </ol>
+    </div>
+</section>
+
+<!-- FAQ Section -->
+<section id="faq">
+    <div class="container">
+        <h2>Frequently Asked Questions</h2>
+        <p><strong>How long does it take to see results?</strong> Results can vary, but clients usually see engagement improvements within a few weeks.</p>
+        <p><strong>Can you adapt to different coaching styles?</strong> Absolutely. My approach is tailored to resonate with your unique audience.</p>
+    </div>
+</section>
+
+<!-- Contact Section -->
+<section id="contact">
+    <div class="container">
+        <h2>Contact Me</h2>
+        <p>Email: saad@example.com</p>
+        <p>Instagram: <a href="https://www.instagram.com/Saaad_aleee" target="_blank">@Saaad_aleee</a></p>
+    </div>
+</section>
+
+<!-- Footer -->
+<footer>
+    <p>&copy; 2024 Muhammad Saad | All Rights Reserved</p>
+</footer>
+
+<script src="/js/main.js"></script>
+</body>
+</html>
